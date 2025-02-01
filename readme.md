@@ -2,7 +2,7 @@ Aqui está a versão com as tecnologias principais:
 
 ---
 
-# 📊 Discord Bot - Gerador de Gráficos com DeepSeek
+# 📊 DataVizBot - Gerador de Gráficos com DeepSeek
 
 ## 🚀 Sobre o projeto
 Este é um bot para **Discord** que utiliza a API do **DeepSeek** para interpretar comandos do usuário, extrair dados estruturados e gerar **gráficos dinâmicos** com `matplotlib`.
