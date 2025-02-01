@@ -32,8 +32,8 @@ O bot permite que usuários enviem comandos com dados de vendas, estatísticas o
 ## 📥 Instalação e Configuração
 ### 1️⃣ Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/evertonreis1/DataVizBot.git
+cd DataVizBot
 ```
 
 ### 2️⃣ Crie e ative um ambiente virtual (opcional, mas recomendado):
