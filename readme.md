@@ -57,7 +57,7 @@ DISCORD_TOKEN=seu_token_do_discord
 
 ### 5️⃣ Execute o bot:
 ```bash
-python bot.py
+python main.py
 ```
 
 ---
