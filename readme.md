@@ -1,4 +1,4 @@
-Aqui está a versão com as tecnologias principais:
+
 
 ---
 
