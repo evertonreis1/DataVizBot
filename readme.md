@@ -1,3 +1,7 @@
+Aqui está a versão com as tecnologias principais:
+
+---
+
 # 📊 Discord Bot - Gerador de Gráficos com DeepSeek
 
 ## 🚀 Sobre o projeto
@@ -5,23 +9,23 @@ Este é um bot para **Discord** que utiliza a API do **DeepSeek** para interpret
 
 O bot permite que usuários enviem comandos com dados de vendas, estatísticas ou outras informações e recebam um gráfico gerado automaticamente.
 
+**Atenção:** O projeto ainda está em fase de desenvolvimento e pode apresentar alguns erros ou falhas.
+
 ---
 
 ## 🔧 Tecnologias utilizadas
 - **[Discord.py](https://discordpy.readthedocs.io/en/stable/)** - API do Discord para bots
 - **[DeepSeek API](https://deepseek.com/)** - IA para conversão de consultas em JSON
 - **[Matplotlib](https://matplotlib.org/)** - Geração de gráficos
-- **Requests** - Comunicação com a API do DeepSeek
-- **Dotenv** - Gerenciamento de variáveis de ambiente
 
 ---
 
 ## 📌 Funcionalidades
-✅ Responde ao comando `!graph` e gera gráficos automaticamente
-✅ Suporta gráficos de **linha, barras e pizza**
-✅ Analisa consultas textuais e converte para JSON
-✅ Gera gráficos a partir de dados fornecidos pelos usuários
-✅ Envia o gráfico diretamente no chat do Discord
+✅ Responde ao comando `!graph` e gera gráficos automaticamente  
+✅ Suporta gráficos de **linha, barras e pizza**  
+✅ Analisa consultas textuais e converte para JSON  
+✅ Gera gráficos a partir de dados fornecidos pelos usuários  
+✅ Envia o gráfico diretamente no chat do Discord  
 
 ---
 
@@ -65,10 +69,8 @@ Basta enviar um comando no chat do Discord com o formato:
 ```
 O bot responderá com um gráfico baseado nos dados fornecidos! 🎉
 
-Exemplo de resposta do bot:
+Exemplo de resposta do bot:  
 > **Gráfico gerado para:** vendas de 2023: Jan 1500, Fev 2000, Mar 1800
-
-
 
 ---
 
@@ -77,3 +79,4 @@ Este projeto está sob a licença MIT. Sinta-se livre para contribuir! 😃
 
 Se precisar de ajuda, me chame! 🚀
 
+---
