@@ -69,8 +69,6 @@ Basta enviar um comando no chat do Discord com o formato:
 ```
 O bot responderá com um gráfico baseado nos dados fornecidos! 🎉
 
-Exemplo de resposta do bot:  
-> **Gráfico gerado para:** vendas de 2023: Jan 1500, Fev 2000, Mar 1800
 
 ---
 
